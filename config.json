@@ -6,8 +6,8 @@
       "status": true,
       "link": "https://ipsaya.com/hostinglokasi.php",
       
-      "addon": true,
-      "maps": true,
+      "addon": false,
+      "maps": false,
       "texture": false,
       "skin": true,
       "more": false,
@@ -33,30 +33,6 @@
     }
   ],
   "Addon": [
-    {
-        "name": "Stupid Utilities",
-        "role": "Hello,this is my first mcpe addon,i will add a lot of content in this addon,like items that no one will use but will exist.And who will choose the update content will be YOU.How to do that?Go to comments and show you idea.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/12/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/12/6Stupid_Utilities_v1.0_FV_1642689897437.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/12/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/12/3.png"
-    },
-    {
-        "name": "The Backrooms Survival Expansion (B)",
-        "role": "Welcome to The Backrooms Survival Expansion, in this addon we add The Backrooms into Survival Minecraft as a new dimension, will you survive this nightmare and explore the secrets the backrooms has to offer?",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/15/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/15/The Backrooms Survival Expansion BP.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/15/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/15/3.png"
-    },
-    {
-        "name": "The Backrooms Survival Expansion (R)",
-        "role": "Welcome to The Backrooms Survival Expansion, in this addon we add The Backrooms into Survival Minecraft as a new dimension, will you survive this nightmare and explore the secrets the backrooms has to offer?",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Backroom/15/4.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Backroom/15/The Backrooms Survival Expansion RP.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Backroom/15/5.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Backroom/15/3.png"
-    },
     {
         "name": "",
         "role": "",
